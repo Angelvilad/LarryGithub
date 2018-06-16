@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker único.
 
-**Angel Ayen**´, git fan.
+<<<<<<< HEAD
+**Angel Ayen**´, git & Larry Plotter fan.
+
